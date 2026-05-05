@@ -3,6 +3,8 @@
 
 This project demonstrates difference between **Loud API Interaction** and **Stealthy Memory Parsing**. While standard scripts rely on the Windows API to find system libraries, slywalker utilizes a custom PEB parser to locate `kernel32.dll` without leaving a footprint in the Import Address Table (IAT) or triggering EDR hooks.
 
+⚠️ **Please Note:** This project is strictly for **Educational and Authorized Penetration Testing**. I am not responsible for any of the shenanigans you guys pull.
+
 ---
 
 ## 📂 Project Overview
