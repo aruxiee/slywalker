@@ -96,3 +96,7 @@ This project demonstrates several techniques used by advanced adversaries.
 | **T1055** | **Process Injection** | It's the foundational step for locating modules needed to inject code into processes. |
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
