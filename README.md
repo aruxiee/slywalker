@@ -98,5 +98,5 @@ This project demonstrates several techniques used by advanced adversaries.
 ---
 
 <p align="center">
-  With ❤️ by <b>Aradhya</b>
+  With ❤️ by <b>Arusha</b>
 </p>
